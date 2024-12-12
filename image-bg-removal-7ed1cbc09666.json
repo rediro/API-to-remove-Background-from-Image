@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "image-bg-removal",
+  "private_key_id": "7ed1cbc096665b63c13cde53e262ddac5709d44d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDUmACDk9gJfDNo\nWZxubjPDtDIMbWjAhkZTvrNTdeEfdQhr4jorb4ku4vAbZQcJ0stzM4l3qLOb8WAJ\n54u2+P9XaDz2bXhjq0zys1ATpEIy+joL+dlRKEBVG8DuKAz76eTvT+wZiWNRfr17\nnu24qkLPiJGcJJ7MNF3Xvd2EakS3BjaJ0fg5sLwcayYMbvF8L7n61jc+hB68QOsD\nXjAvx3ssSdBEa/pLaQzwMxmFFcvHehIAm6tW3oE0h6U+jo9hAGUGTdmuoZNrCyOg\nKJ6xiu38vM8ykbqEAKxMrQHxjxbPZ8IPyQAKWOvJBEg74PwQV/n9DRbHK9fJA4Ij\n7TvnTWTvAgMBAAECggEASz8b23aOXlkYJwSkwk9+QfQ7TLvC+nXsWYLjnRRZoNU/\nLFRP64TYZQCNJN0e3yK9wSJKM1DCdd069XZ/tL0wP6NVBJIdrQV6QGMoYjNe/QUl\nW4zNFxUspBMlOAZ0Bgw07GF4+1buEO/PqHxJvvWAnU1E4KPzkuqsFosM52vns3G5\nVMEEJPCE3Bu+eW0ykwMCjdwop3KKXmJVvdY5SQ3P5gsxMQPQlu11hK1E14owyctJ\n3H3J9sWVZasaJaCpsj1sKxdXUapw1v9tRP91jwfbhDe+7buDsv3oaZFBYFpK2LGM\nLP5iJ7UtxriaBBs+HbU+yGiOrGQuVzvvBhxVwcUo8QKBgQD9IlzHzYzyVm/CcZBO\nj72lGbhi7eoSKL3Tt1UBudoehZDrRz2GxHGxXt2SkrL/afN9S2J2xB4/nvbMdTqB\nSS8uY8inFKFMzcGvtix0D+/k/lpBTqLJIs3vCdaZn80mKpYqCztyFG7Nn5VtJHYV\nYmxjExrh3ps5D3GSdbIPSKgDkQKBgQDXACUB1AsXbBukLPKfdLl9f3o1D+OfpnhN\nQaEQq8hTO8aEGbF6DtTrhCXzOX3REootTTeWzMA+SBpkckQqOanuZzIE6tfwS7zm\nI5Mbd7xCSXpAtZUJpIA/Sgw8p1Xk2KmF4/UADoskEqOjnEdmnzon6+80NU5vBaZ1\n7H4+D6mgfwKBgAYjMCa0CCfUCq+nOz18ZLe9EOhtJlC8ZiXc+xWooO4+hM3/kzFS\nUANh7nNgVTC2K+4sxr1kcetO+mLosLtzv84bI0FR0btf/cM54ogJ3uIpfJy6wF2q\nF14lWeutoTa8r5ljXlScxDb+GIxl5usL0N7yFqPFVvQiOLm5WtDeDRzRAoGADDJ/\n5vimoG+Lqea65Pz0QQBoaHY8TaReEtP0VUPJm586hegHP4tz3OCkXoYWczQADs3g\np3d6OI5SoPwyjcqzr0i/d7PzCDjjwJKoF9jVH1WXz+/9QozIkc6bnx1HLDJ2e5gR\nIC2zCxrbmb6V9mZ2ICmsamPTzUyewvXlu5Ob5fUCgYArpsUKEAXCpN5ZPiIK32ML\n51i1QvTHb6NBs7UM+jorWK0Rs4JmqA2+xNIiU/2C/xPE6fPzLyU9Kj/00V9uOQ6g\n0t48hzS7Z1UG3aeCn/vJZAgYXHpChTZimuMBofPxFXD54bsI+8gz7Aels+xg4FFX\nZZW8V3EjjWtuiJ+7hfb7mQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "image-processing-service-accou@image-bg-removal.iam.gserviceaccount.com",
+  "client_id": "100362535283255928685",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/image-processing-service-accou%40image-bg-removal.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
