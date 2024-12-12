@@ -14,10 +14,11 @@ Example Request using Postman:
 Set HTTP Method to POST
 
 URL: https://image-bg-removal.de.r.appspot.com/process-image
-Headers:
-Content-Type: application/json
-Body:
-json
+
+#Headers:
+#Content-Type: application/json
+#Body:
+#json
 
 {
     "image_url": "https://plus.unsplash.com/premium_photo-1681449856688-2abd99ab5a73?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -28,10 +29,10 @@ json
         "y_max": 1000
     }
 }
-Expected Response:
-If the request is successful, you will get the following response with the original image URL and the URL of the processed image:
+#Expected Response:
+#If the request is successful, you will get the following response with the original image URL and the URL of the processed image:
 
-json
+#json
 
 {
     "original_image_url": "https://plus.unsplash.com/premium_photo-1681449856688-2abd99ab5a73?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
