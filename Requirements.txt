@@ -1,0 +1,6 @@
+sudo apt install python3 python3-pip -y
+pip install rembg
+pip install fastapi uvicorn pillow requests boto3 rembg
+pip install google-cloud-storage
+gcloud auth login
+gcloud config set project <your-project-id>
