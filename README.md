@@ -67,3 +67,6 @@ json
         "y_max": <integer>
     }
 }
+
+#OUTPUT: 
+![output](https://github.com/user-attachments/assets/b1159ebd-bf07-4e90-8f55-c73c715e05e1)
